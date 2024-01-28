@@ -2,6 +2,10 @@
 
 A simple web server to solve the SB-CO challenge.
 
+## Usage
+
+`go run .`
+
 ## Endpoints
 Start a new game
 ```
