@@ -1,0 +1,11 @@
+# http
+http/*
+
+# go
+tmp/*
+
+.vscode
+
+tmp
+.DS_Store
+main
